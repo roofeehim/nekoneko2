@@ -46,6 +46,7 @@ body {
 }
 
 .main-hero {
+  min-height: 100vh;
   padding: 0 20px;
   background: #32cd32 no-repeat center center / cover;
 }
